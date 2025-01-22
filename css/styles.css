@@ -136,9 +136,13 @@ p {
   background-color: #548CFF;
   text-align: center;
   color: #fff;
-  padding: 7% 15%;
+  padding: 7% 7%;
 }
 
+.form-style{
+  text-align:left;
+
+}
 #cta h3 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 900;
@@ -155,13 +159,10 @@ p {
   color: #96BAFF;
   padding: 10px 8px;
 }
-<<<<<<< HEAD
-
-.foot-icon:hover {
-  color: #2FA4FF;
-=======
 .foot-icon:hover {
   color: #2FA4FF;
   
->>>>>>> b304e8ba4658201dbfc7dc2c3a3e1b264a82ec86
+}
+.arrange{
+  padding-top:80px;
 }
